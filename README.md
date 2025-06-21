@@ -10,15 +10,6 @@ A real-time polling application designed for teachers and students, built with R
 - Students can submit answers and view poll results.
 - Real-time updates powered by Socket.io.
 
-### Good-to-Haves
-- Configurable poll timer.
-- Teacher can kick students.
-- Responsive design with TailwindCSS.
-
-### Brownie Points
-- Chat popup for teacher-student interaction.
-- Poll history stored in MongoDB (viewable by teachers).
-
 ## Prerequisites
 - Node.js and npm installed.
 - MongoDB (local or MongoDB Atlas) running.
